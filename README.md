@@ -69,7 +69,7 @@ The dataset for this project contains real job information about data science po
 ```Excel
 =MEDIAN(
 IF(
-    (jobs[job_title_short]=A2)
+    (jobs[job_title_short]=$A2)
     *(jobs[job_country]=country)
     *(ISNUMBER(SEARCH(type,jobs[job_schedule_type])))
     *(jobs[salary_year_avg]<>0)
@@ -98,11 +98,11 @@ IF(
 
 ```Excel
 =FILTER(
-    J2#
+    K2#
     ,(NOT
-        (ISNUMBER(SEARCH("and",J2#))
-        +ISNUMBER(SEARCH(",",J2#))))
-    *(J2#<>0))
+        (ISNUMBER(SEARCH("and",K2#))
+        +ISNUMBER(SEARCH(",",K2#))))
+    *(K2#<>0))
 ```
 
 - 🔍 **Unique List Generation**: Uses the FILTER() function to exclude entries containing "and" or commas, and omits zero values.
