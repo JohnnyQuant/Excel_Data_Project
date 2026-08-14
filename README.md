@@ -54,4 +54,4 @@ To look more detailed about my second project: 👉[Check_out_my_work_here](/Pro
 
 ## 🌍 About This Repo
 
-Each project helps you learn how to organize, analyze, and visualize information using powerful Excel features such as charts, formulas, and data validation, ... To get more thoroughly, please vist to each README.md file to look at how the project was created.
+Each project helps you learn how to organize, analyze, and visualize information using powerful Excel features such as charts, formulas, and data validation, ... To get more thoroughly, please vist to each `README.md` file to look at how the project was created.
