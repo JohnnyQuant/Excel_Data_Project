@@ -1,6 +1,6 @@
 # Excel_Data_Project
 
-Welcome all of you, guys! This repo was intructed by **Luke Barousse** contains the following two projects, join with me and take a look:
+Welcome all of you, guys! This repo was intructed by **Luke Barousse** contains the following two projects, join with me and take a look
 
 ## 📉 Salary Dashboard
 
