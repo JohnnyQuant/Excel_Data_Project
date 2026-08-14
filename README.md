@@ -10,19 +10,19 @@ I made this salary dashboard to show clear insights about pay in different data 
 
 Key Excel Skills Utilized (Demonstrating Progression):
 
-* 💻 Logical, Math, Lookup and Statistical Functions
+- 💻 Logical, Math, Lookup and Statistical Functions
 
-* 🗄️ Array Formulas
+- 🗄️ Array Formulas
 
-* 🗓️ Text & Date, Time Functions
+- 🗓️ Text & Date, Time Functions
 
-* ⌨️ Cells and Tables Manipulation
+- ⌨️ Cells and Tables Manipulation
 
-* 📜 Conditional Formatting
+- 📜 Conditional Formatting
 
-* 📔 Advanced Collaborating Spreadsheet
+- 📔 Advanced Collaborating Spreadsheet
 
-To look more detailed about my first project: 👉 [Check_out_my_work_here](/Project_1/Salary_Analysis_Dashboard.xlsx)
+To look more detailed about my first project: 👉 [Check_out_my_work_here](/Project_1/README.md)
 
 ## 💰 Salary Analysis
 
@@ -34,21 +34,21 @@ As a new job seeker in data industry, I've always been surprised by the lack of 
 
 Key Excel Skills Utilized:
 
-* 📑 Advanced Pivot Table
+- 📑 Advanced Pivot Table
 
-* 📉 Pivot Charts
+- 📉 Pivot Charts
 
-* 🛠️ Power Query Editor
+- 🛠️ Power Query Editor
 
-* 🧮 🛠️Advanced Power Query Transformations
+- 🧮 🛠️Advanced Power Query Transformations
 
-* 🔍 Explicit DAX Measures
+- 🔍 Explicit DAX Measures
 
-* 🎯 Data Modeling with Power Pivot
+- 🎯 Data Modeling with Power Pivot
 
-* 📊 Optimized Slicers
+- 📊 Optimized Slicers
 
-To look more detailed about my second project:  👉[Check_out_my_work_here](/Project_2/Salary_Analysis.xlsx)
+To look more detailed about my second project: 👉[Check_out_my_work_here](/Project_2/README.md)
 
 ---
 
