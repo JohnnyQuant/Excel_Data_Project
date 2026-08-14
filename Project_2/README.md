@@ -42,3 +42,16 @@ It includes detailed information on:
 
 * 🎯 Skills Required – highlighting the top skills employers request in the data science market
 
+
+
+
+
+
+
+---
+
+## 📑 Conclusion
+
+As a data enthusiast and being a job seeker, this Excel‑based project gave me the chance to explore the data science job market in depth. By analyzing real‑world job postings from 2023, I uncovered insights into job titles, salaries, locations, and the most in‑demand skills.
+
+With **Excel** tools like **Power Query**, **PivotTables**, **DAX**, and charts, I was able to reveal clear correlations between multiple skills and higher salaries—especially in **Python**, **SQL**, and **Cloud Technologies**.
